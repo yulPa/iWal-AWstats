@@ -1,0 +1,19 @@
+{
+    "name": "iwal/awstats",
+    "description": "AWStats - Advanced Web Statistics",
+	"version": "7.6",
+	"type": "library",
+	"time": "2016-12-03 13:00",
+	"authors" : [
+		{
+			"name": "Aurelien PONCINI",
+			"email" : "aurelien.poncini@web4all.fr",
+			"homepage": "https://www.web4all.fr",
+			"role": "Author"
+		}
+	],
+	"support": {
+        "docs": "http://www.awstats.org/#DOC"
+    },
+	"homepage": "http://www.awstats.org/"
+}
