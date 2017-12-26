@@ -1,5 +1,5 @@
 {
-    "name": "iwal/awstats",
+    "name": "yulPa/iWal-AWstats",
     "description": "AWStats - Advanced Web Statistics",
 	"version": "7.6",
 	"type": "library",
@@ -7,8 +7,8 @@
 	"authors" : [
 		{
 			"name": "Aurelien PONCINI",
-			"email" : "aurelien.poncini@web4all.fr",
-			"homepage": "https://www.web4all.fr",
+			"email" : "aurelien.poncini@yulpa.io",
+			"homepage": "https://yulpa.io",
 			"role": "Author"
 		}
 	],
